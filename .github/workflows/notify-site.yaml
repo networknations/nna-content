@@ -1,4 +1,4 @@
-name: Notify Site to Rebuild
+name: Notify Cloudflare Pages to Rebuild
 
 on:
   push:
@@ -8,10 +8,7 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger site rebuild
+      - name: Trigger Cloudflare Pages rebuild for nna-site
         run: |
           curl -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.SITE_REPO_TOKEN }}" \
-            https://api.github.com/repos/${{ vars.SITE_REPO }}/dispatches \
-            -d '{"event_type":"content-updated"}'
+            https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/2203a81c-a540-4776-8e80-fd61012d8689
