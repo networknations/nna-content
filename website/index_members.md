@@ -10,6 +10,8 @@ visible: true
   bio: Co-founder of OpenCivics and a participatory futurist, designs sociotechnical systems and immersive experiences that empower communities to co-create regenerative futures.
   role: Steward
   links:
+    - platform: Website
+      url: https://patriciaparkinson.com
     - platform: LinkedIn
       url: https://www.linkedin.com/in/patriciaparkinson/
 
@@ -51,9 +53,14 @@ visible: true
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776440612680-meab5kug.jpeg
   bio: A movement of civic stewards creating the conditions for a participatory, resilient, life-affirming civilization to emerge.
   links:
+    - platform: Website
+      url: https://opencivics.co
     - platform: LinkedIn
       url: https://www.linkedin.com/company/opencivics/
 
 - name: Polis Labs
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776949008627-75t4cqlu.jpg
   bio: An independent research institute studying how free communities coordinate, why they fail, and what frameworks help them endure. Publishes, theorizes, and builds intellectual infrastructure for the parallel society movement.
+  links:
+    - platform: Website
+      url: https://polis-labs.org/
