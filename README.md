@@ -37,7 +37,7 @@ We welcome contributions to the knowledge garden and website content.
 
 ### Garden content
 
-The `garden/` directory powers the [Knowledge Garden](https://networknations.network/garden) — a living collection of concepts, governance structures, and research related to network nations.
+The `garden/` directory powers the [Knowledge Garden](https://garden.networknations.network) — a living collection of concepts, governance structures, and research related to network nations.
 
 To add a new concept page, create a file in `garden/concepts/` with this format:
 
