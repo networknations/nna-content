@@ -9,7 +9,6 @@ aliases:
   - techno-realists
 ---
 
-# Neither Techno-Utopian Nor Techno-Dystopian But Techno-Realists
 
 Techno-realism means adopting a pragmatic and balanced view of technology. This approach avoids both blind optimism and paralysing fear, focusing instead on thoughtfully designing and deploying tools to serve community values, acknowledging both their potential and their limitations.
 
@@ -29,4 +28,4 @@ The techno-realist stance ensures that Network Nations are not merely digital co
 - [[concepts/beyonders|Beyonders]] — Building new models with pragmatic tools
 - [[concepts/commons|Commons]] — Technology as collectively governed infrastructure
 - [[concepts/emergent-solutions|Emergent Solutions]] — Adaptive technology design
-- [[constitution/identity/values|Values]] — The values that should guide technology deployment
+- [[constitution|Values]] — The values that should guide technology deployment

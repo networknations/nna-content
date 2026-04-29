@@ -9,7 +9,6 @@ aliases:
   - translocal communities
 ---
 
-# Neither Local Nor Global But Translocal
 
 Translocalism describes a network of geographically unbound but interconnected local units. This structure allows for communities that are both locally rooted and globally connected, enabling them to act collectively as a larger, interwoven whole without being confined to a single territory.
 
@@ -26,4 +25,4 @@ Translocalism rejects the false binary between rootedness and mobility. A member
 - [[concepts/commons|Commons]] — Resources shared across the translocal network
 - [[concepts/collective-identity|Collective Identity]] — The cultural glue of distributed communities
 - [[concepts/networked-technologies|Networked Technologies]] — Infrastructure enabling translocal coordination
-- [[constitution/identity/worldview|Worldview]] — How translocalism shapes the alliance's perspective
+- [[constitution|Worldview]] — How translocalism shapes the alliance's perspective

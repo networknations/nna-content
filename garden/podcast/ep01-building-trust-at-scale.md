@@ -11,7 +11,6 @@ aliases:
   - building trust at scale
 ---
 
-# Ep 1: Building Trust at Scale — A Primer
 
 **Guests:** Primavera De Filippi & Felix Beer
 **Series:** Network Nations on [GreenPill Podcast](https://greenpill.network)

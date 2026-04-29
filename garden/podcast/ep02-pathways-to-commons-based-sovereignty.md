@@ -11,7 +11,6 @@ aliases:
   - memes and narratives
 ---
 
-# Ep 2: Pathways to Commons-Based Sovereignty
 
 **Guests:** Douglas Rushkoff & Jordan Hall
 **Series:** Network Nations on [GreenPill Podcast](https://greenpill.network)

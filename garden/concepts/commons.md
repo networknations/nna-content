@@ -9,7 +9,6 @@ aliases:
   - commoning
 ---
 
-# Neither State Nor Market But Commons
 
 The commons is an economic and governance model based on the mutualisation of resources. Instead of resources being controlled exclusively by the public sector (State) or private sector (Market), they are collectively owned and managed by a community, including the governance infrastructure itself.
 
@@ -29,4 +28,4 @@ Commons logic stands in contrast to the market logic of "network states," which 
 - [[concepts/interdependence|Interdependence]] — Shared stakes in common resources
 - [[concepts/stake-based-governance|Stake-Based Governance]] — Influence tied to commitment to the commons
 - [[concepts/metapolitics|Metapolitics]] — Empowering civil society through commons-based stewardship
-- [[constitution/identity/values|Values]] — The ethical foundation of commons governance
+- [[constitution|Values]] — The ethical foundation of commons governance

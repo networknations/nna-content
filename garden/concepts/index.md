@@ -1,14 +1,13 @@
 ---
-title: "Key Concepts"
+title: "Concepts"
 tags:
   - concepts
   - overview
 aliases:
-  - key concepts
+  - concepts
   - concepts overview
 ---
 
-# Key Concepts
 
 This page serves as an entry point into the foundational ideas that define [[concepts/network-nations|Network Nations]]. The concepts below are drawn from the ten guiding principles and the core definitional cards of the Network Nations Alliance.
 
@@ -38,6 +37,13 @@ These concepts define what a Network Nation is and how it operates:
 - [[concepts/collective-identity|Collective Identity]] — Shared culture and belonging
 - [[concepts/networked-technologies|Networked Technologies]] — The technological foundation
 
+## Extended Concepts
+
+Additional concepts developed through the podcast series and essay:
+
+- [[concepts/entanglement|Entanglement]] — Designing voluntary interdependencies between community nodes
+- [[concepts/cosmo-localism|Cosmo-Localism]] — Bioregional horizontal solidarity combined with global vertical coordination
+
 ## Constitution
 
-These concepts are woven into the broader constitutional framework. See [[constitution/identity/values|Values]] and [[constitution/identity/worldview|Worldview]] for how they inform the Network Nations Alliance's governing documents.
+These concepts are woven into the broader constitutional framework. See [[constitution|Values]] and [[constitution|Worldview]] for how they inform the Network Nations Alliance's governing documents.

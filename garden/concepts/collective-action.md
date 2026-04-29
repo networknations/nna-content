@@ -9,7 +9,6 @@ aliases:
   - networked political agency
 ---
 
-# Collective Action
 
 Political agency within [[concepts/network-nations|Network Nations]] emerges from the coordinated alignment of autonomous nodes around a common agenda, rather than from centralised authority. This networked coherence enables the community to influence broader systems, shape public discourse, and address global challenges, demonstrating a form of political influence traditionally reserved for major state and market institutions.
 
@@ -29,4 +28,4 @@ Through collective action, Network Nations demonstrate that [[concepts/commons|c
 - [[concepts/stake-based-governance|Stake-Based Governance]] — Investment ensuring genuine participation
 - [[concepts/metapolitics|Metapolitics]] — The political dimension of collective action
 - [[concepts/networked-technologies|Networked Technologies]] — Infrastructure for distributed coordination
-- [[constitution/identity/worldview|Worldview]] — The vision guiding collective action
+- [[constitution|Worldview]] — The vision guiding collective action

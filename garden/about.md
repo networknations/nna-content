@@ -21,7 +21,7 @@ There is no required reading order. Explore at your own pace and follow what int
 
 ## Key Starting Points
 
-- [[constitution/index|Constitution & Governance]] — the NNA's governance framework, roles, protocols, and structure.
+- [[constitution|Constitution & Governance]] — the NNA's governance framework, roles, protocols, and structure.
 - [[concepts/index|Key Concepts]] — the theoretical foundations of network nations.
 - [[reading/index|Reading & Research]] — papers, essays, and recommended books.
 

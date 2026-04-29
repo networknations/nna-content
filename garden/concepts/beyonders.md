@@ -9,7 +9,6 @@ aliases:
   - beyond the system
 ---
 
-# Neither Insiders Nor Outsiders But Beyonders
 
 Beyonders transcend the dichotomy of working within the system or fighting it from the outside. Inspired by Buckminster Fuller, Beyonders focus on building new models that make the existing reality obsolete, creating alternative systems that operate on different principles.
 
@@ -29,4 +28,4 @@ This orientation demands [[concepts/emergent-solutions|emergent]] thinking, crea
 - [[concepts/techno-realism|Techno-Realism]] — Pragmatic use of technology for new models
 - [[concepts/self-governance|Self-Governance]] — The capacity Beyonders seek to build
 - [[concepts/commons|Commons]] — Alternative institutional forms beyond state and market
-- [[constitution/identity/worldview|Worldview]] — The vision that drives Beyonders
+- [[constitution|Worldview]] — The vision that drives Beyonders

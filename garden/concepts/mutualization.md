@@ -10,7 +10,6 @@ aliases:
   - mutual aid
 ---
 
-# Mutualization
 
 Mutualization is the practice of creating resilient communities by pooling and sharing resources across a distributed network, enabling each node to access capabilities far beyond what it could achieve individually. This [[concepts/commons|commons]]-based approach operates on reciprocity and mutual aid, creating a positive feedback loop that strengthens the entire network and ensures resilience against shocks.
 
@@ -32,4 +31,4 @@ The process is governed through [[concepts/stake-based-governance|stake-based]] 
 - [[concepts/functional-sovereignty|Functional Sovereignty]] — Autonomy built on mutualized resources
 - [[concepts/self-governance|Self-Governance]] — Governing mutualized resources collectively
 - [[concepts/stake-based-governance|Stake-Based Governance]] — Rewarding contribution to the commons
-- [[constitution/identity/values|Values]] — Reciprocity and mutual aid as core values
+- [[constitution|Values]] — Reciprocity and mutual aid as core values

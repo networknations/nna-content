@@ -9,7 +9,6 @@ aliases:
   - distributed nationhood
 ---
 
-# Collective Identity
 
 Within [[concepts/network-nations|Network Nations]], a form of distributed nationhood is cultivated, defined not by geographic proximity but by relational closeness. This collective identity emerges through sustained interaction, mutual recognition, and shared cultural practices. Unlike traditional nations tied to inherited citizenship, cohesion here is derived from active, voluntary participation, offering an alternative model of nation-building.
 
@@ -30,5 +29,5 @@ This model of identity-formation through voluntary participation and shared prac
 - [[concepts/mutualization|Mutualization]] — Shared resources strengthening bonds
 - [[concepts/networked-technologies|Networked Technologies]] — Platforms sustaining distributed identity
 - [[concepts/commons|Commons]] — Shared ownership as identity-forming practice
-- [[constitution/identity/values|Values]] — The values at the core of collective identity
-- [[constitution/identity/worldview|Worldview]] — The shared vision that binds the community
+- [[constitution|Values]] — The values at the core of collective identity
+- [[constitution|Worldview]] — The shared vision that binds the community

@@ -13,10 +13,12 @@ This knowledge garden collects the concepts, governance frameworks, reading mate
 ## Start Exploring
 
 - [[concepts/network-nations|What is a Network Nation?]]
-- [[concepts/index|Key Concepts]]
-- [[constitution/index|Constitution & Governance]]
+- [[concepts/index|Concepts]]
+- [[constitution|Constitution]]
 - [[reading/index|Reading & Research]]
-- [[organizations/index|Network Nations Landscape]]
+- [[reading/resource-library|Resource Library]]
+- [[organizations/index|Organizations]]
+- [[events/emerge-lakefront-2025|Emerge Lakefront 2025]]
 - [[glossary|Glossary]]
 
 ## How to Navigate This Garden

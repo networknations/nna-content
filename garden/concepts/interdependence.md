@@ -9,7 +9,6 @@ aliases:
   - entanglement
 ---
 
-# Neither Dependent Nor Independent But Interdependent
 
 Interdependence is a state of entanglement that creates a shared future through incentive alignment. By creating high exit costs and shared stakes, this model fosters deep collaboration over pure independence, which helps mitigate free-riding and the tragedy of the commons.
 
@@ -29,4 +28,4 @@ Interdependence also informs the [[concepts/metapolitics|metapolitical]] dimensi
 - [[concepts/translocalism|Translocalism]] — Spatial entanglement across localities
 - [[concepts/collective-action|Collective Action]] — Coordinated agency enabled by interdependence
 - [[concepts/collective-identity|Collective Identity]] — Cultural bonds that sustain entanglement
-- [[constitution/identity/values|Values]] — The ethical basis for mutual commitment
+- [[constitution|Values]] — The ethical basis for mutual commitment

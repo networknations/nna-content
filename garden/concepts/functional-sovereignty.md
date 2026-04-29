@@ -9,7 +9,6 @@ aliases:
   - sovereign capacity
 ---
 
-# Neither Supremacy Nor Subordination But Functional Sovereignty
 
 Functional sovereignty is the capacity for a community to self-organise and govern its own affairs independent of external interference. This form of sovereignty is not based on territorial control, but on the functional ability to manage its own systems and resources, empowering civil society.
 
@@ -29,4 +28,4 @@ It stands in deliberate contrast to the "network state" model, which seeks terri
 - [[concepts/polycentrism|Polycentrism]] — Multiple overlapping domains of sovereignty
 - [[concepts/metapolitics|Metapolitics]] — Creating new political actors through sovereignty
 - [[concepts/beyonders|Beyonders]] — Building alternative systems beyond existing structures
-- [[constitution/identity/worldview|Worldview]] — The philosophical basis for functional sovereignty
+- [[constitution|Worldview]] — The philosophical basis for functional sovereignty

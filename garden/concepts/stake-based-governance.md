@@ -9,7 +9,6 @@ aliases:
   - skin in the game
 ---
 
-# Neither Exit-Based Nor Voice-Based But Stake-Based
 
 Stake-based governance is a model where influence is tied to one's stake in the community. This moves beyond the traditional dichotomy of "exit" (leaving when dissatisfied) or "voice" (protesting to change the system). Having a tangible stake, whether economic, social, or reputational, incentivizes constructive participation.
 
@@ -29,4 +28,4 @@ The model is operationalised through [[concepts/polycentrism|polycentric]] struc
 - [[concepts/polycentrism|Polycentrism]] — Multiple centres where stakes are held
 - [[concepts/collective-action|Collective Action]] — Coordinated action enabled by aligned stakes
 - [[concepts/beyonders|Beyonders]] — Moving beyond exit/voice to a new model
-- [[constitution/identity/values|Values]] — The values underpinning stake-based participation
+- [[constitution|Values]] — The values underpinning stake-based participation

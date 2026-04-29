@@ -11,7 +11,6 @@ aliases:
   - commons mutualism entanglement
 ---
 
-# Ep 3: Culture, Coordination, and Trust
 
 **Guests:** Sara Horowitz & Michel Bauwens
 **Series:** Network Nations on [GreenPill Podcast](https://greenpill.network)

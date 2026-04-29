@@ -9,7 +9,6 @@ aliases:
   - meta-politics
 ---
 
-# Neither Political Nor Apolitical But Metapolitical
 
 Metapolitics means operating on a level that shapes the conditions for future politics. The agenda is to empower civil society with more agency for [[concepts/self-governance|self-governance]] while acknowledging planetary [[concepts/interdependence|interdependencies]], creating new geopolitical actors through [[concepts/commons|commons]]-based stewardship.
 
@@ -29,4 +28,4 @@ This approach acknowledges that the polycrisis demands responses that transcend 
 - [[concepts/commons|Commons]] — The institutional basis for metapolitical action
 - [[concepts/self-governance|Self-Governance]] — Empowering civil society beyond the state
 - [[concepts/emergent-solutions|Emergent Solutions]] — Adaptive responses to the polycrisis
-- [[constitution/identity/worldview|Worldview]] — The philosophical stance behind metapolitics
+- [[constitution|Worldview]] — The philosophical stance behind metapolitics

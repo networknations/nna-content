@@ -9,7 +9,6 @@ aliases:
   - polycentricity
 ---
 
-# Neither Centralized Nor Decentralised But Polycentric
 
 Polycentrism is a system with multiple centres of decision-making that have mutual influence over one another. Unlike a top-down centralized model or a fully flat decentralized one, polycentricity allows for nested, overlapping, and autonomous governance bodies to coexist and coordinate.
 
@@ -27,4 +26,4 @@ Polycentric governance also reflects the logic of [[concepts/functional-sovereig
 - [[concepts/stake-based-governance|Stake-Based Governance]] — How influence is distributed across centres
 - [[concepts/commons|Commons]] — Collectively managed resources in polycentric systems
 - [[concepts/interdependence|Interdependence]] — Mutual influence between governance centres
-- [[constitution/identity/values|Values]] — The normative foundation for polycentric coordination
+- [[constitution|Values]] — The normative foundation for polycentric coordination

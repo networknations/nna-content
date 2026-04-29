@@ -9,7 +9,6 @@ aliases:
   - emergent
 ---
 
-# Neither Descriptive Nor Prescriptive But Emergent
 
 Emergence is a process-based approach to solving complex problems like the polycrisis. Rather than prescribing a rigid solution, this principle focuses on creating an interconnected, adaptive system from which novel solutions can emerge through the interactions of its empowered members.
 
@@ -30,4 +29,4 @@ The [[concepts/metapolitics|metapolitical]] stance of Network Nations is itself 
 - [[concepts/metapolitics|Metapolitics]] — Emergent political agency
 - [[concepts/techno-realism|Techno-Realism]] — Adaptive technology design
 - [[concepts/self-governance|Self-Governance]] — Governance systems that evolve through practice
-- [[constitution/identity/worldview|Worldview]] — The epistemological stance behind emergence
+- [[constitution|Worldview]] — The epistemological stance behind emergence

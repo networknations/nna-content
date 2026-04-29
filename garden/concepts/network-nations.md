@@ -10,7 +10,6 @@ aliases:
   - distributed polity
 ---
 
-# Network Nations
 
 **Network Nations are globally distributed communities of choice. They build and govern their own digital civic infrastructure to cultivate trust at scale.** Network Nations is one term of many defining an emerging design space for networked community building — self-sovereign, bottom-up, and trust-rich.
 
@@ -56,6 +55,6 @@ A network nation is community-rooted, commons-driven civic fabric that builds fu
 
 ## Related Concepts
 
-- [[constitution/identity/values|Values]] — The ethical commitments of the Network Nations Alliance
-- [[constitution/identity/worldview|Worldview]] — The philosophical foundations
+- [[constitution|Values]] — The ethical commitments of the Network Nations Alliance
+- [[constitution|Worldview]] — The philosophical foundations
 - [[concepts/index|Key Concepts]] — Overview of all foundational concepts

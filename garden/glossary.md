@@ -31,11 +31,11 @@ A quick-reference guide to key terms used throughout the Network Nations Knowled
 
 **Mutualization** — The process of converting privately or state-controlled infrastructure into collectively owned and governed commons, enabling shared benefit and shared responsibility. See [[concepts/mutualization]].
 
-**Steward** — A governance role within the Network Nations Alliance responsible for maintaining and nurturing specific aspects of the alliance's operations and mission. See [[constitution/structure/roles/steward]].
+**Steward** — A governance role within the Network Nations Alliance responsible for maintaining and nurturing specific aspects of the alliance's operations and mission. See [[constitution]].
 
-**Alliance Assembly** — The collective decision-making body of the Network Nations Alliance, composed of member organizations and individual participants. See [[constitution/structure/groups/alliance-assembly]].
+**Alliance Assembly** — The collective decision-making body of the Network Nations Alliance, composed of member organizations and individual participants. See [[constitution]].
 
-**Lazy Consensus** — A decision-making protocol where a proposal is considered approved unless someone explicitly objects within a defined period. Used within the NNA's governance processes. See [[constitution/protocols/decision-making]].
+**Lazy Consensus** — A decision-making protocol where a proposal is considered approved unless someone explicitly objects within a defined period. Used within the NNA's governance processes. See [[constitution]].
 
 **Digital Garden** — A style of knowledge base where content is cultivated over time rather than published as polished, final articles. Pages grow, change, and interconnect as understanding deepens. This site is a digital garden.
 

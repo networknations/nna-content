@@ -1,12 +1,11 @@
 ---
-title: "Podcast Transcripts"
+title: "Greenpill Podcast Transcripts"
 tags:
   - podcast
   - media
   - greenpill
 ---
 
-# Network Nations Podcast Series
 
 Full transcripts from the **Network Nations** mini-series on the [GreenPill Podcast](https://greenpill.network), hosted by **Primavera De Filippi** and **Felix Beer**.
 

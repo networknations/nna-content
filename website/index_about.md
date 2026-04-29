@@ -9,4 +9,3 @@ definitions_intro: "An emerging global community of innovators and thinkers have
 **Network Nations** are globally distributed communities of choice. They build and govern their own digital civic infrastructure to cultivate trust at scale. Network Nations is one term of many defining an emerging design space for networked community building — self-sovereign, bottom-up, and trust-rich.
 
 The **Network Nations Alliance** is a cooperative alliance of builders, researchers, organizations, and activists reimagining digital networks as tools to empower civil society beyond states and markets.
-

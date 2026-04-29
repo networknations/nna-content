@@ -9,7 +9,6 @@ aliases:
   - collective self-rule
 ---
 
-# Self-Governance
 
 Self-governance is the capacity to define, implement, and adapt the rules of collective life without relying on external authority. Within [[concepts/network-nations|Network Nations]], governance systems are built from the bottom up, distributing decision-making across the network. Legitimacy arises not from a centralised mandate but from active participation, mutual accountability, and the continual renegotiation of shared rules.
 
@@ -29,4 +28,4 @@ The rules of self-governance are themselves treated as [[concepts/commons|common
 - [[concepts/commons|Commons]] — Governance rules as collectively managed resources
 - [[concepts/networked-technologies|Networked Technologies]] — Infrastructure for distributed governance
 - [[concepts/interdependence|Interdependence]] — Commitment that sustains self-governance
-- [[constitution/identity/values|Values]] — The normative commitments guiding self-governance
+- [[constitution|Values]] — The normative commitments guiding self-governance

@@ -9,7 +9,6 @@ aliases:
   - technopolitical infrastructure
 ---
 
-# Networked Technologies
 
 Decentralised technologies, from blockchain protocols to peer-to-peer platforms, provide the foundation for scalable and autonomous [[concepts/self-governance|self-governance]] within [[concepts/network-nations|Network Nations]]. This technological stack enables communities to manage their own affairs while resisting censorship and minimising dependence on external authorities. Network Nations are not merely digital communities but technopolitical formations whose sovereignty is tied to their control over their own tools.
 
@@ -31,4 +30,4 @@ This technopolitical perspective recognises that in the digital age, infrastruct
 - [[concepts/mutualization|Mutualization]] — Economic infrastructure for resource sharing
 - [[concepts/commons|Commons]] — Technology as collectively owned infrastructure
 - [[concepts/collective-identity|Collective Identity]] — Digital identity systems for distributed nationhood
-- [[constitution/identity/values|Values]] — Values that should guide technology design
+- [[constitution|Values]] — Values that should guide technology design
