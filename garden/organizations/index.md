@@ -57,6 +57,7 @@ Organizations and communities profiled in the podcast as examples of Network Nat
 
 ## Community & Movement Building
 
+- [[organizations/opencivics|OpenCivics]] — Movement of civic stewards building a participatory, regenerative civilization (Patricia Parkinson, Stefan Morales)
 - [[organizations/microsolidarity|Microsolidarity]] — Small-group mutual aid and belonging framework
 - [[organizations/agartha|Agartha]] — Solarpunk community at the intersection of art, ecology, and technology
 

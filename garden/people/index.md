@@ -6,11 +6,14 @@ tags: [people, index]
 
 Key thinkers, builders, researchers, and practitioners referenced across the Network Nations knowledge garden.
 
-## Hosts & Core Team
+## Stewards
 
 - [[people/primavera-de-filippi|Primavera De Filippi]] — Co-host, researcher at Harvard & CNRS, co-author of the essay
 - [[people/felix-beer|Felix Beer]] — Co-host, researcher at Harvard & Blockchain.gov
-- [[people/patricia-parkinson|Patricia Parkinson]] — Network Nations Alliance organizer
+- [[people/patricia-parkinson|Patricia Parkinson]] — Co-founder of [[organizations/opencivics|OpenCivics]]; Network Nations Alliance organizer
+- [[people/stefan-morales|Stefan Morales]] — Founder of Working Together Consulting; OpenCivics delegate
+- [[people/lovisa-bjorna|Lovisa Björna]] — Head of Platform at Blockchain.gov; researcher-practitioner in networked governance
+- [[people/benjamin-life|Benjamin Life]] — Movement builder; Ep 15 guest
 
 ## Podcast Guests
 
@@ -40,6 +43,7 @@ Key thinkers, builders, researchers, and practitioners referenced across the Net
 - [[people/jessy-kate-schingler|Jessy Kate Schingler]] — Author, Coordi-nations (Ep 13)
 - [[people/helena-rong|Helena Rong]] — SeeDAO (Ep 14)
 - [[people/benjamin-life|Benjamin Life]] — Movement builder (Ep 15)
+- [[people/patricia-parkinson|Patricia Parkinson]] — Network Nations Alliance organizer; co-founder of OpenCivics (Ep 15)
 
 ## Thinkers Referenced in the Essay & Episodes
 
