@@ -1,6 +1,6 @@
 # Network Nations Alliance Constitution (Simplified)
 
-**Version:** 1.0 | **Date:** January 2026
+**Version:** 1.0 | **Date:** January 2026 
 
 ---
 
