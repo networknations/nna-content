@@ -11,7 +11,6 @@ A curated collection of papers, essays, and books relevant to the theory and pra
 
 Key papers from the Network Nations Alliance and the broader research community:
 
-- **"A Farewell to Empire"** — [[people/benjamin-life|Benjamin Life]] — see [[reading/a-farewell-to-empire|full text in the garden]]
 - **"Network Nations: Reclaiming Sovereignty in the Digital Age"** — [[people/primavera-de-filippi|Primavera de Filippi]] & [[people/felix-beer|Felix Beer]] — see [[reading/essay|full text in the garden]]
 - **"Introduction: New Network Sovereignties: the Rise of Non-Territorial States?"** — Primavera de Filippi (CNRS | CERSA, Harvard, EUI). [Read at EUI](https://globalgovernanceprogramme.eui.eu/project/new-network-sovereignties-the-rise-of-non-territorial-states/introduction-new-network-sovereignties/)
 - **"Network Sovereignties Are at Least Four Different Concepts in One Category"** — Vitalik Buterin (Ethereum). [Read at EUI](https://globalgovernanceprogramme.eui.eu/project/new-network-sovereignties-the-rise-of-non-territorial-states/new-network-sovereignties-the-rise-of-non-territorial-states-3/)
@@ -21,6 +20,7 @@ Key papers from the Network Nations Alliance and the broader research community:
 - **"Functional Local and Network Sovereignties"** — Jonathan Hillis (Cabin). [Read at EUI](https://globalgovernanceprogramme.eui.eu/project/new-network-sovereignties-the-rise-of-non-territorial-states/functional-local-network-sovereignties/)
 - **"Coordi-nations: A New Institutional Structure for Global Cooperation"** — Jessy Kate Schingler. [Read on Medium](https://jessykate.medium.com/coordi-nations-a-new-institutional-structure-for-global-cooperation-3ef38d6e2cfa)
 - **"Decentralized Web3 Reshaping Internet Governance: Towards the Emergence of New Forms of Nation-Statehood?"** — Igor Calzada. [Read at MDPI](https://www.mdpi.com/1999-5903/16/10/361)
+- **"A Farewell to Empire"** — [[people/benjamin-life|Benjamin Life]] — see [[reading/a-farewell-to-empire|full text in the garden]]
 
 ## Detailed Reading Notes
 
