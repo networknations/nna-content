@@ -28,7 +28,7 @@ visible: true
     - platform: LinkedIn
       url: https://www.linkedin.com/in/stefan-morales/
 
-- name: Lovisa Björna
+- name: Lovisa BjÃ¶rna
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776648645033-58swyge7.jpeg
   bio: Researcher-practitioner focused on governance in networked systems. Head of Platform at BlockchainGov and initiator of the Governance Module at the Polkadot Blockchain Academy.
   role: Steward
@@ -64,3 +64,12 @@ visible: true
   links:
     - platform: Website
       url: https://polis-labs.org/
+
+- name: Protopia Garden
+  bio: "Protopia Garden builds long-term infrastructure for social transformation. This page is the entry point to two public research initiatives: AI-native organizations and digital endowment systems."
+  links:
+    - platform: Website
+      url: http://Protopia.Garden
+    - platform: LinkedIn
+      url: https://www.linkedin.com/in/tetianahoncharenko/?skipRedirect=true
+
