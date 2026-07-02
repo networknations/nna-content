@@ -18,7 +18,6 @@ visible: true
 - name: Benjamin Life
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776440857876-gs3v9v4w.jpeg
   bio: I seem to be a verb.
-  role: Steward
 
 - name: Stefan Morales
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776442016257-q6rlykth.jpg
