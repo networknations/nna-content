@@ -27,7 +27,7 @@ visible: true
     - platform: LinkedIn
       url: https://www.linkedin.com/in/stefan-morales/
 
-- name: Lovisa BjÃÂÃÂ¶rna
+- name: Lovisa Björna
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776648645033-58swyge7.jpeg
   bio: Researcher-practitioner focused on governance in networked systems. Head of Platform at BlockchainGov and initiator of the Governance Module at the Polkadot Blockchain Academy.
   role: Steward
