@@ -36,6 +36,7 @@ visible: true
       url: https://www.linkedin.com/in/lovisa-bj%C3%B6rna-02b930135/
 
 - name: Felix Beer
+  image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1783403657606-u3ijqd0k.jpg
   bio: Strategist and researcher working on governance innovation at the intersection of technology and democracy. Focused on building new R&D ecosystems that can pilot, test, and scale next-gen institutions for a networked age.
   role: Steward
   links:
@@ -43,6 +44,7 @@ visible: true
       url: https://www.linkedin.com/in/beer-felix
 
 - name: Primavera De Filippi
+  image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1783403657607-rlcpqq42.jpg
   bio: Legal scholar at Harvard / CNRS.
   role: Steward
 
