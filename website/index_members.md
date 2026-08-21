@@ -27,7 +27,7 @@ visible: true
     - platform: LinkedIn
       url: https://www.linkedin.com/in/stefan-morales/
 
-- name: Lovisa Björna
+- name: Lovisa BjÃ¶rna
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1776648645033-58swyge7.jpeg
   bio: Researcher-practitioner focused on governance in networked systems. Head of Platform at BlockchainGov and initiator of the Governance Module at the Polkadot Blockchain Academy.
   role: Steward
@@ -50,7 +50,7 @@ visible: true
 
 - name: Josh Ketry
   image: https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1779894590467-e660y8gc.jpeg
-  bio: "Founder of Swarm Science.  Study and use collective âswarmâ intelligence systems to self govern businesses.  Studying the wisdom of crowds, and how to run systems in groups without top down leaders.  Want to run Network groups and governments too"
+  bio: "Founder of Swarm Science.  Study and use collective Ã¢ÂÂswarmÃ¢ÂÂ intelligence systems to self govern businesses.  Studying the wisdom of crowds, and how to run systems in groups without top down leaders.  Want to run Network groups and governments too"
   links:
     - platform: Website
       url: https://youtu.be/Eu-RyZt_Uas?si=Goe7eRsxwWqA4q3y
@@ -63,6 +63,14 @@ visible: true
       url: https://johannesbennke.info/
     - platform: LinkedIn
       url: https://de.linkedin.com/in/johannes-bennke
+
+- name: Philip Rosedale
+  bio: "Working on numerous projects related to helping people improve trust, create alternative currencies, and form communities."
+  links:
+    - platform: Website
+      url: http://secondlife.com
+    - platform: LinkedIn
+      url: http://linkedin.com/in/philiprosedale
 
 ## Organizations
 
