@@ -34,9 +34,10 @@ jobs:
         env:
           DEPLOY_HOOK: ${{ secrets.CF_DEPLOY_HOOK }}
         run: |
-          # Deploy hooks need no authentication, so the URL should live in the
-          # CF_DEPLOY_HOOK repository secret. Until that secret is set (and the
-          # hook rotated in the Cloudflare Pages dashboard), fall back to the
-          # original hook so content pushes keep deploying.
-          HOOK="${DEPLOY_HOOK:-https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/2203a81c-a540-4776-8e80-fd61012d8689}"
-          curl --fail --silent --show-error --retry 3 --retry-delay 5 -X POST "$HOOK"
+          # Cloudflare deploy hooks need no authentication, so the URL is a secret.
+          # Rotate it in the Pages dashboard and update CF_DEPLOY_HOOK together.
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "CF_DEPLOY_HOOK repository secret is not set; cannot trigger a deploy." >&2
+            exit 1
+          fi
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 -X POST "$DEPLOY_HOOK"
