@@ -78,6 +78,15 @@ visible: true
     - platform: Website
       url: https://euroalter.com
 
+- name: "Kaliya Young"
+  image: "https://gobulfvwqcpyitvadxdo.supabase.co/storage/v1/object/public/application-photos/1786387054717-zjxslvpk.png"
+  bio: "Co-founder of the Internet Identity Workshop (2005–present, 40 events). Co-lead of Project Weave, funding protocol infrastructure for communities that want to govern themselves without a platform in the middle. Unconference facilitation."
+  links:
+    - platform: "Website"
+      url: "https://www.identitywoman.net"
+    - platform: "LinkedIn"
+      url: "https://www.linkedin.com/in/kaliya"
+
 ## Organizations
 
 - name: OpenCivics
