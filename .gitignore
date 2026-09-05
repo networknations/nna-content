@@ -1,3 +1,6 @@
 .DS_Store
 .obsidian/
 *.zip
+
+# Long-form working drafts: local only, never published to the garden
+garden/drafts/
