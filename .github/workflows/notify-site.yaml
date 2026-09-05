@@ -1,14 +1,42 @@
-name: Notify Cloudflare Pages to Rebuild
+name: Validate content and rebuild site
 
 on:
   push:
     branches: [main]
+  pull_request:
 
 jobs:
+  # The website build reads website/index_members.md as YAML. Catch parse errors,
+  # nameless entries, control characters and mojibake before anything deploys.
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install validator dependencies
+        run: |
+          npm init -y > /dev/null
+          npm install --no-audit --no-fund js-yaml@4 gray-matter@4
+
+      - name: Check members file
+        run: node .github/scripts/check-members.mjs website/index_members.md
+
   notify:
+    if: github.event_name == 'push'
+    needs: validate
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Cloudflare Pages rebuild for nna-site
+        env:
+          DEPLOY_HOOK: ${{ secrets.CF_DEPLOY_HOOK }}
         run: |
-          curl -X POST \
-            https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/2203a81c-a540-4776-8e80-fd61012d8689
+          # Deploy hooks need no authentication, so the URL should live in the
+          # CF_DEPLOY_HOOK repository secret. Until that secret is set (and the
+          # hook rotated in the Cloudflare Pages dashboard), fall back to the
+          # original hook so content pushes keep deploying.
+          HOOK="${DEPLOY_HOOK:-https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/2203a81c-a540-4776-8e80-fd61012d8689}"
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 -X POST "$HOOK"
